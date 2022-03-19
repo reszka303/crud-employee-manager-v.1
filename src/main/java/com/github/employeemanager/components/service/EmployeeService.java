@@ -31,12 +31,12 @@ public class EmployeeService {
     }
 
     public Employee findEmployeeById(Long id) {
-        return employeeRepository.findById(id).orElseThrow(
+        return employeeRepository.findEmployeeById(id).orElseThrow(
                 () -> new UserNotFoundException("User by " + id + "was not found"));
     }
 
     public void deleteEmployee(Long id) {
-        employeeRepository.deleteById(id);
+        employeeRepository.deleteEmployeeById(id);
     }
 
 }

@@ -1,0 +1,39 @@
+{
+  "name": "Dave Rogers",
+  "email": "dave_rogers@githbub.com",
+  "jobTitle": "Java",
+  "phone": "457090332",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png"
+}
+
+{
+  "name": "Marse Walter",
+  "email": "marse_walter@githbub.com",
+  "jobTitle": "JavaScript",
+  "phone": "457090335",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png"
+}
+
+{
+  "name": "Jeremy Robbins",
+  "email": "jeremy_robbins@githbub.com",
+  "jobTitle": "Python",
+  "phone": "457090336",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar4.png"
+}
+
+{
+  "name": "David Parbell",
+  "email": "david_parbell@githbub.com",
+  "jobTitle": "JavaScript",
+  "phone": "457090337",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar5.png"
+}
+
+{
+  "name": "James Anderson",
+  "email": "james_anderson@githbub.com",
+  "jobTitle": "JavaScript",
+  "phone": "457090338",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar6.png"
+}
